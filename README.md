@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oumayma 👋</h1>
+<h1 align="center">Hi, I'm Oumayma</h1>
 
 <p align="center">
   Full Stack Developer & AI Enthusiast passionate about building impactful web experiences
